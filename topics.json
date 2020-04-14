@@ -1,4 +1,5 @@
 {
   "facts": "just-facts.json",
-  "eng": "english.json"
+  "eng": "english.json",
+  "health": "health.json"
 }
